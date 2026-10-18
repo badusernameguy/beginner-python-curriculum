@@ -2,7 +2,7 @@
 # Write a function that returns the number 42 and print the result.
 def num():
     return 42
-print(num())
+print(num()) 
 
 
 # Problem 2
